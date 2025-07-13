@@ -22,3 +22,8 @@ Users can select a country from a dropdown menu, input an amount, and instantly 
 This project demonstrates key frontend skills including API integration, asynchronous JavaScript, DOM manipulation, and responsive design. It’s entirely frontend-based, with no backend required, and is perfect for showcasing how to build dynamic web applications that interact with external data in real time.
 
 Ideal for developers looking to strengthen their skills in working with real-world APIs and building interactive, user-friendly interfaces.
+
+
+OUTPUT OF THE TASK:
+
+<img width="1906" height="1046" alt="Image" src="https://github.com/user-attachments/assets/89118fef-6402-40ae-a713-79bdce7c35a3" />
